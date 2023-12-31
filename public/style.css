@@ -1,0 +1,13 @@
+*{
+    background-color: azure;
+    text-align: center;
+    text-emphasis: bold;
+}
+.container{
+    margin-top: 10%;
+    margin-left: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    text-emphasis: bold;
+}
